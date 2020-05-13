@@ -26,6 +26,6 @@ We decided to use the Latent Dirichlet Allocation model(LDA). LDA is a generativ
 If you are interested in more details, please move to our [report](https://github.com/xzhangfox/ANALYSE-AND-CLASSIFY-MUSIC-BY-LYRICS/blob/master/Report/NLP%20Final%20Report.pdf).
 
 # References
-*Kaggle:https://www.kaggle.com/mousehead/songlyrics
-*Oramas, S.(2018), Natural Language Processing for Music Knowledge Discovery,https://arxiv.org/abs/1807.02200
-*Oramas, S.(2018), Natural Language Processing for Music Information Retrieval,https://www.upf.edu/web/mdm-dtic/tutorial-natural-language-processing-for-music-information-retrieval
+* Kaggle:https://www.kaggle.com/mousehead/songlyrics
+* Oramas, S.(2018), Natural Language Processing for Music Knowledge Discovery,https://arxiv.org/abs/1807.02200
+* Oramas, S.(2018), Natural Language Processing for Music Information Retrieval,https://www.upf.edu/web/mdm-dtic/tutorial-natural-language-processing-for-music-information-retrieval
